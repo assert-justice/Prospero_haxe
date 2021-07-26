@@ -1,0 +1,9 @@
+Ident HELLO 1
+Symbol + 1
+String there! 1
+Symbol : 1
+Newline NewLine 1
+Indent Indent 2
+Number 123001 2
+Symbol + 2
+Number 10 2
